@@ -1,4 +1,4 @@
-# london-website
+# London Website
 
 ## Digital Media 11 Project
 
