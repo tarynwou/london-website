@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+img{
+	width: 964px;
+}
+#homepic{
+	background-image: url(tubemap.gif);
+	width: 964px;
+	height: 644.0725px;
+	background-size: 964px, 644.0725px;
+	top: 50px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 70px;
+	font-weight: bold;
+	color: black;
+	line-height: 644px;
+	text-align: center;
+	text-shadow: grey;
+	position: relative;
+	color: black;
+	text-indent: 30px;
+	text-shadow: grey;
+}
+.container{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	max-width: 960px;
+	margin: auto;
+}
+
+.nav{
+	width:192px;
+	height: 40px;
+	text-align: center;	
+	line-height: 42px;	
+	float: left;
+	position: absolute;
+	background-color: #B1AB9B;
+	color: white;
+	border: 1px solid black;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:lighter;
+}
+.nav:hover{
+	width:192px;
+	height: 40px;
+	text-align: center;	
+	line-height: 42px;	
+	float: left;
+	position: absolute;
+	background-color: #C1B9A6;
+	color: white;
+	border: 1px solid black;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:lighter;
+}
+#homepage{
+	top: 0px;
+	left: 0px;
+}
+
+#tourismpage{
+	top: 0px;
+	left: 192px;
+}
+#eatpage{
+	top: 0px;
+	left: 384px;
+}
+#tubepage{
+	top: 0px;
+	left: 576px;
+}
+#shopspage{
+	top: 0px;
+	left: 768px;
+}
+.fact{
+	background: rgba(240, 239, 231, 0.5);
+	text-align: right;
+	border: 1px solid #B0B0B0;
+	padding: 10px;
+	line-height: 30px;
+
+}
+
+
+#body{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#maincontent{
+	top: 100px;
+	left: 0px;
+	position: relative;
+	width: 964px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+p, ul{
+	line-height: 29px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+h1{
+	background:#EEF8F8;
+	padding: 7px;
+}
+
+
+.footer{
+	width: 964px;
+	height: 155px;
+	position: relative;
+	bottom: 0px;
+	background-color: #B1AB9B;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#designedby{
+	position: relative;
+	top: 3px;
+	text-align: center;
+}
+#name{
+	position: relative;
+	top: -25px;
+	text-align: center;
+	font-size: 14px;
+}
+#abouttitle{
+	position: relative;
+	top: -45px;
+	text-align: center;
+}
+#about{
+	position: relative;
+	top: -70px;
+	text-align: center;
+	margin-left: 30px;
+	margin-right: 30px;
+	font-size: 14px;
+	line-height: 20px;
+}
